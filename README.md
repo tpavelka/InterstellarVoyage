@@ -3,6 +3,8 @@
 
 Want to plan a trip through the stars? The Interstellar Voyage Planner can help you!
 
+## Notes:
+
 This program was created for a math class when I was a freshman in college. It was
 an online course, and the final project involved a lot of redundant math. I decided
 to make this program in order to ensure a good grade on the project. I ended up

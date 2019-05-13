@@ -7,4 +7,4 @@ to make this program in order to ensure a good grade on the project. I ended up
 making a 100 on that project.
 
 This program was made by me alone.
-I created this project having known Java for at least a year and a half, so 2013ish.
+I created this project having known Java for at least a year and a half, so 2013-ish.
